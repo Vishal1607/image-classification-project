@@ -1,0 +1,25 @@
+path: /Users/vishalgupta/image-classification-project/yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: images_OBJ000
+  1: images_OBJ001
+  2: images_OBJ002
+  3: images_OBJ004
+  4: images_OBJ006
+  5: images_OBJ007
+  6: images_OBJ011
+  7: images_OBJ070
+  8: images_OBJ108
+  9: images_OBJ111
+  10: images_OBJ123
+  11: images_OBJ125
+  12: images_OBJ201
+  13: images_OBJ222
+  14: images_OBJ523
+  15: images_OBJ529
+  16: images_OBJ608
+  17: images_OBJ666
+  18: images_OBJ777
+  19: images_OBJ916
